@@ -40,7 +40,7 @@ print(f"Predicted: {gender}")
 ```
 
 ## Technologies
-- Python 3.8+
+- Python 3.11.15
 - TensorFlow
 - OpenCV
 - NumPy
