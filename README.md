@@ -12,7 +12,7 @@ Deep learning CNN model that predicts gender from eye images.
 - Convolutional Neural Network (CNN)
 - 4 convolutional layers
 - TensorFlow/Keras
-- Test Accuracy: ~85%
+- Test Accuracy: 90%
 
 ## Files
 - `eye_gender_model.py` - Training script
